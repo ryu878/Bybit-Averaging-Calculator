@@ -1,6 +1,6 @@
 # Bybit-Averaging-Calculator
 Calculator to get how many orders to add to get desired position price
-
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://aadresearch.xyz)
 
 ## Requirements
 You need bybit and binance accounts and APIs.
