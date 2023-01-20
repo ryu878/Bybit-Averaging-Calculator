@@ -7,11 +7,16 @@ Calculator to get how many orders to add to get desired position price
 You need bybit and binance accounts and APIs.
 
 Run pip install to install:
-- ta
-- ccxt
-- pandas
-- pybit
-- python-binance
+
+<code>pip install pybit</code>
+
+<code>pip install pandas</code>
+
+<code>pip install ta</code>
+
+<code>pip install ccxt</code>
+
+<code>pip install python-binance</code>
 
 ## Disclaimer
 <hr>
