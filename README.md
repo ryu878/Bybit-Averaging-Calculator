@@ -8,7 +8,7 @@ You need bybit and binance accounts and APIs.
 
 Run pip install to install:
 
-<code>pip install pybit</code>
+<code>pip install pybit==2.4.1</code>
 
 <code>pip install pandas</code>
 
